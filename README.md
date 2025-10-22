@@ -2,13 +2,10 @@
 
 ![OIP](https://github.com/user-attachments/assets/693fd702-ffe0-42a4-8093-d7d101279429)
 
-
-
 </h1>
 
 ## OS TICKET LIFECYCLE 
 This tutorial outlines the demostration of navigating within OS ticket
-
 
 # Environments and Technologies Used
 - osTicket (Help Desk Ticketing System)
@@ -24,8 +21,7 @@ This tutorial outlines the demostration of navigating within OS ticket
 
 # Ticket Lifecycle Stages: Intake to Resolution 
 ## Intake
-1. Head to http://localhost/osTicket/ and click the 'Open a New Ticket' button.
-
+1. Head to `http://localhost/osTicket/` and click the `Open a New Ticket` button
 
 <img width="1548" height="918" alt="Screenshot 2025-10-21 220511" src="https://github.com/user-attachments/assets/6d75c2aa-f76e-42c8-aaaf-3a2dea27a0b8" />
 
@@ -38,7 +34,8 @@ This tutorial outlines the demostration of navigating within OS ticket
    <img width="1545" height="1372" alt="Screenshot 2025-10-19 221751" src="https://github.com/user-attachments/assets/2535a908-f79c-4115-89b2-053d76f1a02c" />
 
    ## Assignment & Communication
-   1. Head to http://localhost/osTicket/scp/login.php and enter the credentials for the administrator that will assign an agent to work on the ticket
+
+1. Head to `http://localhost/osTicket/scp/login.php` and enter the credentials for the administrator that will assign an agent to work on the ticket
 <img width="1553" height="970" alt="Screenshot 2025-10-19 222101" src="https://github.com/user-attachments/assets/6d470392-9516-4460-898a-afd91c02c785" />
 
 2. Head to 'Tickets' -> 'Open' and then open the ticket number under the **Ticket** column
@@ -53,16 +50,17 @@ This tutorial outlines the demostration of navigating within OS ticket
 
  ## Working the Issue
  1. Head to `http://localhost/osTicket/scp/login.php` and enter the credentials of the agent who has been assigned to this ticket
+
     <img width="1553" height="1148" alt="Screenshot 2025-10-22 090911" src="https://github.com/user-attachments/assets/4512b736-c9fa-4f49-902d-cea0edee01e5" />
 
- 2.  Once logged in the agent will ticket featues: who submitted the ticket, time of ticket, priority level, last updated, subject who it is assigned to.
+ 3.  Once logged in the agent will ticket featues: who submitted the ticket, time of ticket, priority level, last updated, subject who it is assigned to.
+    
 <img width="1550" height="1167" alt="Screenshot 2025-10-22 091311" src="https://github.com/user-attachments/assets/da19843b-db10-4c20-8c13-8303a22a68fd" />
 
-   
  3.  Once the agent has reviewed all the necessary information and identified the problem, the agent could use the **Post Reply** button to the user (Benny Hanna) everything, including the solution.
-    <img width="1542" height="1196" alt="Screenshot 2025-10-22 091819" src="https://github.com/user-attachments/assets/77e61050-fd4f-4575-8957-d8f9c77464f2" />
 
     
+    <img width="1542" height="1196" alt="Screenshot 2025-10-22 091819" src="https://github.com/user-attachments/assets/77e61050-fd4f-4575-8957-d8f9c77464f2" />
 
 
 ## Resolution 
@@ -72,31 +70,6 @@ This tutorial outlines the demostration of navigating within OS ticket
 2. To view tickets that have been closed, agents can navigate to `Tickets` -> `Closed` and the appropriate time frame. that this ticket is from. From here, the agent should see the completed ticket.
     
 <img width="1553" height="855" alt="Screenshot 2025-10-22 092202" src="https://github.com/user-attachments/assets/c82a4d01-8a7e-4f84-a5ec-8e2663954883" />
-
-   
-   
-   
-
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
