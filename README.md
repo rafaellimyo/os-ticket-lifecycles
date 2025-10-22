@@ -53,15 +53,25 @@ This tutorial outlines the demostration of navigating within OS ticket
 
  ## Working the Issue
  1. Head to `http://localhost/osTicket/scp/login.php` and enter the credentials of the agent who has been assigned to this ticket
+    <img width="1553" height="1148" alt="Screenshot 2025-10-22 090911" src="https://github.com/user-attachments/assets/4512b736-c9fa-4f49-902d-cea0edee01e5" />
+
  2.  Once logged in the agent will ticket featues: who submitted the ticket, time of ticket, priority level, last updated, subject who it is assigned to.
+<img width="1550" height="1167" alt="Screenshot 2025-10-22 091311" src="https://github.com/user-attachments/assets/da19843b-db10-4c20-8c13-8303a22a68fd" />
+
+   
  3.  Once the agent has reviewed all the necessary information and identified the problem, the agent could use the **Post Reply** button to the user (Benny Hanna) everything, including the solution.
+    <img width="1542" height="1196" alt="Screenshot 2025-10-22 091819" src="https://github.com/user-attachments/assets/77e61050-fd4f-4575-8957-d8f9c77464f2" />
+
+    
 
 
 ## Resolution 
-1. Before the user presses the `Post Reply` button to send message to the user, it is important to head to **Ticket Status** drop down menu from `Open`(current) to `Closed`
-2. Then, osTicket will take the agent back to the Tickets tab. The agent wll see a confirmation the reply was posted successfully. 
-3. To view tickets that have been closed, agents can navigate to `Tickets` -> `Closed` and the appropriate time frame. that this ticket is from. From here, the agent should see the completed ticket.
+1. Before the user presses the `Post Reply` button to send message to the user, it is important to head to **Ticket Status** drop down menu from `Open`(current) to `Resolved`
+   <img width="1542" height="1196" alt="Screenshot 2025-10-22 091819" src="https://github.com/user-attachments/assets/bfce3f11-3517-4cba-8328-8dad326877a2" />
+
+2. To view tickets that have been closed, agents can navigate to `Tickets` -> `Closed` and the appropriate time frame. that this ticket is from. From here, the agent should see the completed ticket.
     
+<img width="1553" height="855" alt="Screenshot 2025-10-22 092202" src="https://github.com/user-attachments/assets/c82a4d01-8a7e-4f84-a5ec-8e2663954883" />
 
    
    
